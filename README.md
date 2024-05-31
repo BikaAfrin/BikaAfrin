@@ -3,7 +3,7 @@
 
 I'm a programmer with experience in languages like C++, C#, Java, and JavaScript. I'm also familiar with frameworks like React and ASP.NET, and databases like MSSQL. I've built APIs using RESTful principles.  In addition to my professional skills, I'm passionate about competitive programming and have created personal projects using these technologies to keep my skills sharp!
 <br><br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
  <div class="skills-container">
         <div class="skills-left">
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
