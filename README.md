@@ -49,12 +49,12 @@ I'm a programmer with experience in languages like C++, C#, Java, and JavaScript
             </a>
     </div>
 <br><br>
-
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BikaAfrin&theme=catppuccin_latte&show_icons=true" alt="bikaafrin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikaAfrin&layout=compact" alt="bikaafrin" /></p>
 
-<br><br>
+<br>
 
 <p align="left">
 <a href="https://linkedin.com/in/shohara afrin bika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohara afrin bika" height="30" width="40" /></a>
