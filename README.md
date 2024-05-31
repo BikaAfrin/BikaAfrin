@@ -8,20 +8,6 @@ I'm a programmer with experience in languages like C++, C#, Java, and JavaScript
 <h1 align="center">Hi 👋, I'm Shohara Afrin Bika</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikaafrin&label=Profile%20views&color=0e75b6&style=flat" alt="bikaafrin" /> </p>
-
-- 🔭 I’m currently working on [Finance App](https://github.com/BikaAfrin/Finance-App)
-
-- 🌱 I’m currently learning **React js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BikaAfrin/Finance-App https://github.com/BikaAfrin/Catering_Service_using_.Net https://github.com/BikaAfrin/Rock_Paper_Scissors-HTML-CSS-JS](https://github.com/BikaAfrin/Finance-App https://github.com/BikaAfrin/Catering_Service_using_.Net https://github.com/BikaAfrin/Rock_Paper_Scissors-HTML-CSS-JS)
-
-- 💬 Ask me about **C++, C#, Java, and JavaScript, React js, ASP.NET, MSSQL, REST FULL API**
-
-- 📫 How to reach me **bikabima72@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uySeyiVJMx--WTFVis0Csbz_qNJ1ftAs/view](https://drive.google.com/file/d/1uySeyiVJMx--WTFVis0Csbz_qNJ1ftAs/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shohara afrin bika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohara afrin bika" height="30" width="40" /></a>
@@ -34,6 +20,6 @@ I'm a programmer with experience in languages like C++, C#, Java, and JavaScript
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikaafrin&show_icons=true&locale=en&layout=compact" alt="bikaafrin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikaafrin&show_icons=true&locale=en" alt="bikaafrin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BikaAfrin&theme=catppuccin_latte&show_icons=true /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikaafrin&" alt="bikaafrin" /></p>
